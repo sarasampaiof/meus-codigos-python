@@ -4,7 +4,6 @@ total_dolares = taxa_dolar * reais
 
 print(f"Essa quantia de reais é equivalente a {total_dolares:.2f} dólares")
 
-
 #ou ao contrário: 
 #taxa_cambio = float(input("Informe a atual taxa de câmbio de dólar para real: "))
 #dolares = float(input("Informe quantos dólares deseja converter para reais: "))
